@@ -1,3 +1,6 @@
+***This repository has now been merged into [workflowfm/proter](https://github.com/workflowfm/proter).***
+***See [workflowfm/proter#67](https://github.com/workflowfm/proter/pull/67) for more info.***
+
 # proter-online
 
 This is the repo for Martin Lewis' Honours Project. The project involves creating a front end and corresponding API to expose elements of proter that are only available programmatically.
